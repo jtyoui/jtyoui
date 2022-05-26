@@ -1,6 +1,6 @@
-# 欢迎光临
+# Welcome
 
-## 讲个笑话：996福报.
+### A Glimpse by Walt Whitman
 
 <a href="https://github.com/jtyoui">
   <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtyoui&layout=compact&langs_count=6"/>
